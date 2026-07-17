@@ -6,44 +6,40 @@ I’m a Computer Science undergraduate with an interest in building practical so
 
 ## My journey so far  
 
-I’m currently pursuing Computer Science with a focus on Data Science at Manipal University Jaipur. Alongside my coursework, I spend time exploring different areas of development and computer science fundamentals.
+I’m currently pursuing a B.Tech in Computer Science Engineering (Data Science) at Manipal University Jaipur. Alongside my coursework, I enjoy exploring software development, artificial intelligence, machine learning, and computer science fundamentals.
 
-I started contributing to open source through **Social Winter of Code**, where I worked with mentors and other contributors to fix bugs and improve features using Git and GitHub. This experience helped me understand collaborative development and real-world codebases.
+I am currently a Trainee in the **Hewlett Packard Enterprise (HPE) CPP-2 Program**, where I am developing a major software project while gaining hands-on experience in software engineering practices, artificial intelligence, machine learning, databases, distributed systems, networking, and systems programming.
 
-I was also selected as an **Internshala Student Partner**, where I worked on campus outreach and student engagement initiatives, promoting skill-based learning among students.
-
-Apart from this, I’ve been involved in college-level activities like **Startup Mela 3.0**, where I was part of the core hospitality team and worked closely with others to ensure smooth coordination during the event.
-
+I also contribute to open source through GirlScript Summer of Code (GSSoC), where I develop features, resolve issues, and collaborate with maintainers using Git and GitHub. Previously, I participated in Social Winter of Code (SWOC), contributing to collaborative open-source projects by fixing bugs, improving documentation, and submitting pull requests. These experiences have strengthened my problem-solving, collaboration, and software development skills.
 ---
 
 ## Projects  
 
-**HealthSync**  
-A centralized healthcare management system aimed at bringing patient data from different hospitals and clinics onto a single platform. I worked on building RESTful APIs using Flask to manage records and designed a React-based dashboard for real-time access and updates.
-Repo: https://github.com/Arshita1510-coder/Hackathon-Demo  
+**Zenith — React.js, TailwindCSS, Node.js, Express.js, Prisma ORM, Supabase**
+Built an enterprise OKR and performance analytics portal with JWT authentication and RBAC workflows.
+Implemented employee-manager-admin review cycles, goal tracking, audit logs, and analytics dashboards.
+Designed scalable REST APIs and integrated Supabase PostgreSQL with Prisma ORM for secure data management.
 
+**Urban Intel — Next.js, FastAPI, Python, TailwindCSS, Gemini AI**
+Built an AI-powered traffic intelligence platform for parking hotspot detection and congestion analysis.
+Developed a BPR-based traffic engine with MapLibre heatmaps and CCTV vision analytics.
+Integrated Gemini AI and FastAPI to deliver real-time traffic insights and recommendations.
 
-**Weather + Mood App**  
-A web application that provides real-time weather updates along with AI-generated mood suggestions. It uses the OpenWeatherMap API and is designed to be easily extendable for future features.  
-Repo: https://github.com/Arshita1510-coder/Weather-mood-app  
-
-**Java Projects**  
-Developed a Car Rental System using Java and object-oriented principles to manage bookings, returns, customers, and availability. I’ve also built smaller Java applications like a calculator, to-do list, quiz app, and note-taking app to strengthen my fundamentals.  
-Repo: https://github.com/Arshita1510-coder/Car-Rental-System  
+**CommunityPulse — React.js, TypeScript, Node.js, Express.js, TailwindCSS, Gemini AI, Firestore**
+Developed an AI-powered disaster response platform for efficient crisis coordination, decision-making, and emergency response.
+Implemented real-time workflows for resource allocation, volunteer management, and emergency updates.
 
 ---
 
 ## Skills & interests  
 
-I work primarily with **Java, Python, C, JavaScript, and SQL**, and I’m comfortable using tools like **Git, GitHub, Linux, MySQL, and VS Code**.
-
-I have a strong interest in **data structures and algorithms**, **object-oriented programming**, and **backend development**, and I’m currently exploring areas like **machine learning, data science, and LLM-based systems**.
+I work primarily with Java, Python, C, JavaScript, SQL, HTML, and CSS, and I’m comfortable using tools like Git, GitHub, Linux, MySQL, and VS Code. I have experience building RESTful APIs and working with modern development frameworks and platforms.I have a strong interest in data structures and algorithms and am also focused on strengthening my computer science fundamentals. I’m also exploring areas like machine learning, data science, generative AI, natural language processing (NLP), and LLM-based systems.
 
 ---
 
 ## Problem solving  
 
-I regularly practice DSA and focus on writing clear and efficient solutions.  
+I regularly practice Data Structures and Algorithms (DSA) and focus on writing clear and efficient solutions. I have solved 500+ problems on platforms such as LeetCode, GeeksforGeeks (GFG), and Codeforces.
 LeetCode: https://leetcode.com/u/Arshita1510/  
 
 ---
