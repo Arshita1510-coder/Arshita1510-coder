@@ -15,26 +15,34 @@ I also contribute to open source through **GirlScript Summer of Code (GSSoC)**, 
 
 ## Projects  
 
-**Zenith — React.js, TailwindCSS, Node.js, Express.js, Prisma ORM, Supabase**
-Built an enterprise OKR and performance analytics portal with JWT authentication and RBAC workflows.
-Implemented employee-manager-admin review cycles, goal tracking, audit logs, and analytics dashboards.
-Designed scalable REST APIs and integrated Supabase PostgreSQL with Prisma ORM for secure data management.
-Repo:https://github.com/Arshita1510-coder/Zenith
-Live Demo Link: https://zenith-mu-khaki.vercel.app/
+## Projects
 
-**Urban Intel — Next.js, FastAPI, Python, TailwindCSS, Gemini AI**
-Built an AI-powered traffic intelligence platform for parking hotspot detection and congestion analysis.
-Developed a BPR-based traffic engine with MapLibre heatmaps and CCTV vision analytics.
-Integrated Gemini AI and FastAPI to deliver real-time traffic insights and recommendations.
-Repo: https://github.com/Arshita1510-coder/Gridlock
-Live Demo Link: https://gridlockk.vercel.app/
+### Zenith
+An enterprise OKR and performance analytics portal with JWT authentication and RBAC workflows.
+- Implemented employee-manager-admin review cycles, goal tracking, audit logs, and analytics dashboards.
+- Designed scalable REST APIs and integrated Supabase PostgreSQL with Prisma ORM for secure data management.
 
-**CommunityPulse — React.js, TypeScript, Node.js, Express.js, TailwindCSS, Gemini AI, Firestore**
-Developed an AI-powered disaster response platform for efficient crisis coordination, decision-making, and emergency response.
-Implemented real-time workflows for resource allocation, volunteer management, and emergency updates.
-Repo: https://github.com/Arshita1510-coder/CommunityPulse
-Live Demo Link: https://community-pulse-t6p0.onrender.com/
+**Tech Stack:** React.js · TailwindCSS · Node.js · Express.js · Prisma ORM · Supabase
+🔗 [Repo](https://github.com/Arshita1510-coder/Zenith) · [Live Demo](https://zenith-mu-khaki.vercel.app/)
 
+---
+
+### Urban Intel
+An AI-powered traffic intelligence platform for parking hotspot detection and congestion analysis.
+- Developed a BPR-based traffic engine with MapLibre heatmaps and CCTV vision analytics.
+- Integrated Gemini AI and FastAPI to deliver real-time traffic insights and recommendations.
+
+**Tech Stack:** Next.js · FastAPI · Python · TailwindCSS · Gemini AI
+🔗 [Repo](https://github.com/Arshita1510-coder/Gridlock) · [Live Demo](https://gridlockk.vercel.app/)
+
+---
+
+### CommunityPulse
+An AI-powered disaster response platform for efficient crisis coordination, decision-making, and emergency response.
+- Implemented real-time workflows for resource allocation, volunteer management, and emergency updates.
+
+**Tech Stack:** React.js · TypeScript · Node.js · Express.js · TailwindCSS · Gemini AI · Firestore
+🔗 [Repo](https://github.com/Arshita1510-coder/CommunityPulse) · [Live Demo](https://community-pulse-t6p0.onrender.com/)
 
 
 ## Skills & interests  
@@ -44,7 +52,9 @@ Live Demo Link: https://community-pulse-t6p0.onrender.com/
 **Developer Tools:** VS Code, Git, GitHub
 
 **Technologies/Platforms:** Linux, RESTful APIs, Google Cloud Platform (GCP)
+
 **CS Fundamentals:** Data Structures and Algorithms, OOP, DBMS, Operating Systems, Computer Networks, COA
+
 **AI / Data Domains:** Machine Learning, Data Science, Generative AI, NLP, LLM-based Systems, Agentic AI
 
 ---
